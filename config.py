@@ -12,12 +12,12 @@ victims = [
 
 
 
-host 		= "STMP Address" 
+host 		  = "STMP Address" 
 to_addr 	= 'Whatever@you.want' #config.victims[i] #emailAddress
-from_addr   = "Whatever@you.want"
+from_addr = "Whatever@you.want"
 usrnme 		= "STMPUsername@host.com" 
-pswd 		= "123456" 
+pswd 		  = "123456" 
 to_addr 	= 'whatever@itsoverwritten.com' #config.victims[i] #emailAddress
-from_addr   = "john@doe.com"
+from_addr = "john@doe.com"
 
 
