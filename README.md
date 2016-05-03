@@ -1,5 +1,12 @@
+
 # Email-hell
 Are you tired of Getting spam from a specific email address?  Use this Python script to email them back in an automated fashion
+
+
+
+#Legal Disclaimer: 
+
+This sofware was created for educational and information purposes only.  Use of any files or code or likeness of files constitutes acknowledgement.  Use of this script or any portions of it are considered acknoledgement the above mentioned statements.  By using this script I acknoledge and accept full liability for any actions or consequences and release Franknenmint from any liabilities incurred as a result.
 
 # step 1
 
