@@ -38,7 +38,7 @@ body_text = 'Hey there! <br/><br/> Next time someone asks you to remove them fro
 while True:	
 	for i in range(len(config.victims)):
 		subject 	= "Career Inquiry"
-		#config.to_addr = config.victims[i]
+		config.to_addr = config.victims[i]
 		send_email(config.from_addr, [config.to_addr], body_text)
 		print "Sent Message To " + config.victims[i]
 
